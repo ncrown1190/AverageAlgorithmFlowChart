@@ -1,6 +1,6 @@
 ### Average Algorithm (Psuedocode, Flowchart)
 
-##Pseudocode
+### Pseudocode
 
 START
 
@@ -22,6 +22,6 @@ START
 
 End
 
-
+### Flow Chart
 
 ![image](https://github.com/user-attachments/assets/ce2dacf3-2f63-4f03-adbc-376e23e020fb)
