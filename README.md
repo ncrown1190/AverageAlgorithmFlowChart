@@ -4,15 +4,22 @@
 
 START
 
-Initialize Array(numbers)
+- Initialize Array(numbers)
 
-total numbers to n
-sum  and average to zero
-check if Count < n
-if yes sum = sum +number
-Count = count +1
-if no Average = sum/n
-return average
+- total numbers of elements to n
+
+- sum  and average to zero
+
+- check if Count < n
+
+- if yes sum = sum +number
+
+- Count = count +1
+
+- if no Average = sum/n
+
+- return average
+
 End
 
 
