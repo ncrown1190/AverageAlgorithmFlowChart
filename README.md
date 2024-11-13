@@ -1,8 +1,11 @@
 ### Average Algorithm (Psuedocode, Flowchart)
 
-Pseudocode
+##Pseudocode
+
 START
+
 Initialize Array(numbers)
+
 total numbers to n
 sum  and average to zero
 check if Count < n
