@@ -1,4 +1,4 @@
-Average Algorithm (Psuedocode, Flowchart)
+### Average Algorithm (Psuedocode, Flowchart)
 
 Pseudocode
 START
